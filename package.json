@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "dannnyliang <youchenliang@gmail.com>",
   "license": "MIT",
+  "dependencies": {},
   "devDependencies": {
     "cz-conventional-changelog": "3.3.0",
     "eslint": "^7.13.0",
